@@ -1,0 +1,48 @@
+var sunday {
+"date": "2019-08-25",
+"wakingTime": "11:00",
+"recallLevel": 0,
+"dreamStory": [null]
+}
+
+var monday {
+"date": "2019-08-26",
+"wakingTime": "04:00",
+"recallLevel": 0,
+"dreamStory": [null]
+}
+
+var tuesday {
+"date": "2019-08-27",
+"wakingTime": "10:00",
+"recallLevel": 1,
+"dreamStory": ["A desert in a distant planet. Countless story threads but they all remain beyond my perception."]
+}
+
+var wednesday {
+"date": "2019-08-28",
+"wakingTime": "00:00",
+"recallLevel": 0,
+"dreamStory": [""]
+}
+
+var thursday {
+"date": "2019-08-29",
+"wakingTime": "00:00",
+"recallLevel": 0,
+"dreamStory": ""
+}
+
+var friday {
+"date": "2019-08-30",
+"wakingTime": "00:00",
+"recallLevel": 0,
+"dreamStory": [""]
+}
+
+var saturday {
+"date": "2019-09-31",
+"wakingTime": "00:00",
+"recallLevel": 0,
+"dreamStory": [""]
+}
