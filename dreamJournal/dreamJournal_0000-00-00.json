@@ -1,0 +1,48 @@
+var sunday {
+"date": "2019-09-00",
+"wakingTime": "00:00",
+"recallLevel": 0,
+"dreamStory": [""]
+}
+
+var monday {
+"date": "2019-09-00",
+"wakingTime": "00:00",
+"recallLevel": 0,
+"dreamStory": [""]
+}
+
+var tuesday {
+"date": "2019-09-00",
+"wakingTime": "00:00",
+"recallLevel": 0,
+"dreamStory": [""]
+}
+
+var wednesday {
+"date": "2019-09-00",
+"wakingTime": "00:00",
+"recallLevel": 0,
+"dreamStory": [""]
+}
+
+var thursday {
+"date": "2019-09-00",
+"wakingTime": "00:00",
+"recallLevel": 0,
+"dreamStory": [""]
+}
+
+var friday {
+"date": "2019-09-00",
+"wakingTime": "00:00",
+"recallLevel": 0,
+"dreamStory": [""]
+}
+
+var saturday {
+"date": "2019-09-00",
+"wakingTime": "00:00",
+"recallLevel": 0,
+"dreamStory": [""]
+}
